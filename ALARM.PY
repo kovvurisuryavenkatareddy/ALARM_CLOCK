@@ -1,3 +1,9 @@
+'''
+The "Alarm Clock" project is a digital application that allows users to set alarms, 
+activate or deactivate them, and utilize the snooze function. 
+It provides a user-friendly interface with real-time display, countdown, 
+and audible alerts when the alarm time is reached. The project aims to provide an efficient and reliable alarm clock experience.
+'''
 import tkinter as tk
 from tkinter import messagebox
 import datetime
